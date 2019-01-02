@@ -19,3 +19,7 @@ Three datasets are used in this study, two representing the supply side and one 
 - Stack Overflow 2018 Developer Survey (https://insights.stackoverflow.com/survey)
 - Kaggle ML and Data Science Survey, 2018 (https://www.kaggle.com/kaggle/kaggle-survey-2017#multipleChoiceResponses.csv)
 - Rachel’s Mail - Columbia University Data Science Career Opportunities
+
+## Content
+- Analysis.RMD : R Markdown file of analysis with description
+- Insights Of The Current Data Science Job Market.pdf : Final report of findings
